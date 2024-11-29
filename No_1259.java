@@ -15,7 +15,7 @@ public class No_1259{
 
             
             //暴力求解
-            int sum = 1000000;
+        int sum = 1000000;
         int a1 = 1;
         int a2 = 7;
         int a3 = 49;
