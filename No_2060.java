@@ -1,5 +1,5 @@
 public class No_2060{
-    public class Main {
+    class Main {
         public static void main(String[] args) {
             // Scanner scan = new Scanner(System.in);
             int edge = 4;
